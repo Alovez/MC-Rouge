@@ -1,0 +1,6 @@
+{
+  "parent": "rogue:item/timing_bow",
+  "textures": {
+    "layer0": "rogue:items/timing_bow_pulling_0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "rogue:items/timing_bow_standby"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pulling": 1
+      },
+      "model": "rogue:item/timing_bow_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "rogue:item/timing_bow_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "rogue:item/timing_bow_pulling_2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rogue",
+  "name": "Rogue",
+  "description": "Rogue",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["alovez"],
+  "credits": "Notch, Cpw",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

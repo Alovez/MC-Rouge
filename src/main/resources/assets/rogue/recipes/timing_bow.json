@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xs",
+    "xes",
+    " xs"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    },
+    "e":
+    {
+      "type": "forge:ore_dict",
+      "ore": "enderpearl"
+    },
+    "s":{
+      "type": "forge:ore_dict",
+      "ore": "string"
+    }
+  },
+  "result":
+  {
+    "item": "rogue:timing_bow",
+    "count": 1
+  }
+}
